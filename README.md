@@ -72,6 +72,9 @@ _Y tendremos nuestra aplicación funcionando a la perfeccion:_
 * **Elías Emiliano Beltrán González** - *Trabajo Inicial*
 * **Román Guzmán Valles** - *Trabajo Inicial*
 
+* **Jorge Luis Diaz Serna** - *Mantenimiento y Mejoras*
+* **Omar Alejandro De la Cruz Razo** - *Mantenimiento y Mejoras*
+
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia (GPL3.0) - mira el archivo [LICENSE.md](https://labsol.cozcyt.gob.mx/gitlab/devops-lab/sistema-estatal-de-investigadores/-/blob/main/LICENSE) para más detalles.
